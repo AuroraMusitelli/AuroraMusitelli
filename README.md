@@ -5,4 +5,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:musitelliaurora@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/AuroraMusitelli)
 
-[My personal Portfolio](https://github.com/AuroraMusitelli/Portfolio)
+* Passionate about Business Analytics, with a solid background in statistics. I enjoy finding insights in data and transforming them into concrete strategies.
+* In my free time? Mountains, photography and sports help me maintain a balance!
+
+## 🎓 Education
+* Master's Degree, Statistical and Economic Sciences (LM-82) | University of Milano-Bicocca *(Oct 2023 – Present)*
+* Bachelor's Degree, Statistics (L-41) | University of Milano-Bicocca *(Oct 2019 – Jan 2023)*
+
+
+## 📌 Technical Skills
+* Languages & Tools: R, Python
+
+
+## 📌 Work Experience
+**Business Development Analyst** CMS SpA *(Feb 2023 – Sept 2023)*  

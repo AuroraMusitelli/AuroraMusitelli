@@ -13,7 +13,7 @@
 * Bachelor's Degree, Statistics (L-41) | University of Milano-Bicocca *(Oct 2019 – Jan 2023)*
 
 
-## 📌 Technical Skills
+## 💻 Technical Skills
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0073CF?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

@@ -25,8 +25,5 @@
 
 Extracurricular Internship: Data analysis to support and monitor the corporate development of the CMS Group's business strategies.
 
-Main tasks:
-
 * Organizing/modifying Business Plans to monitor continuous improvement of activities and deadlines related to product development;
-  
 * Creating Business Plans to identify new business opportunities, define objectives, strategies, and sales forecasts.

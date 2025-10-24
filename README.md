@@ -1,4 +1,4 @@
-## Hi, I'm Aurora Musitelli! 👋
+## Hi, I'm Aurora Musitelli! 
 
 **Contact Information**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurora-musitelli-bb1464195/)
@@ -17,7 +17,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0073CF?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tableau ](https://img.shields.io/badge/Tableau-150458?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
 ## 📌 Work Experience
